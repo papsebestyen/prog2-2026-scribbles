@@ -1,0 +1,6 @@
+*.csv
+*.csv.gz
+*.parquet
+.ipynb_checkpoints
+.python-version
+
